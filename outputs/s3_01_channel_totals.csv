@@ -1,0 +1,5 @@
+channel,attribution_model,p_signups,d_signups,signup_ratio,p_paid,d_paid,d_paid_rev,paid_ratio,p_revenue,db_new_arr,db_first12m_cash,rev_ratio_vs_12m_cash,p_rev_per_conv
+paid_social,click_7d_view_1d,7819.0,4683,1.67,595.0,344,295.0,1.73,1342956.0,603047.0,491970.0,2.73,2257.0
+paid_search,click_7d_view_1d,8213.0,6271,1.31,709.0,638,573.0,1.11,1828532.0,1099926.0,905153.0,2.02,2579.0
+review_site,click_28d,3180.0,3089,1.03,54.0,54,43.0,1.0,181267.0,114436.0,97810.0,1.85,3357.0
+affiliate,click_30d_view_7d,1630.0,1532,1.06,124.0,124,114.0,1.0,308722.0,221161.0,193997.0,1.59,2490.0

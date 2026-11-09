@@ -1,0 +1,13 @@
+channel,campaign,spend,clicks,tagged_signups,tagged_customers,est_customers,est_cac,conv_pct,arpa_mrr,churn_pct_mo,ltv_cac
+affiliate,aff_network_a,19160.0,20408.0,329,33,45.0,424.0,10.03,151.1,4.45,5.99
+affiliate,aff_creators,20588.0,21939.0,345,26,36.0,578.0,7.54,201.9,1.45,11.25
+affiliate,aff_network_b,20186.0,21291.0,347,25,34.0,590.0,7.2,95.2,2.84,3.74
+paid_search,search_brand,125803.0,110170.0,1404,158,207.0,609.0,11.25,146.1,2.51,5.98
+paid_search,search_competitor,129009.0,112253.0,1455,159,208.0,621.0,10.93,155.5,3.27,5.29
+paid_search,search_generic,125220.0,108969.0,1398,142,186.0,675.0,10.16,154.6,2.79,5.37
+paid_social,social_retargeting,65313.0,66073.0,998,83,109.0,598.0,8.32,142.7,3.18,5.14
+paid_social,social_prospecting,68207.0,69659.0,1050,84,111.0,617.0,8.0,126.1,3.57,4.06
+paid_social,social_lookalike,68773.0,70367.0,1108,77,101.0,679.0,6.95,183.9,2.48,6.8
+review_site,reviews_capterra,17792.0,30918.0,672,16,21.0,845.0,2.38,230.6,3.8,5.18
+review_site,reviews_g2,18492.0,32928.0,723,13,17.0,1081.0,1.8,183.0,13.95,0.97
+review_site,reviews_getapp,18691.0,31940.0,661,9,12.0,1578.0,1.36,171.2,2.4,2.78

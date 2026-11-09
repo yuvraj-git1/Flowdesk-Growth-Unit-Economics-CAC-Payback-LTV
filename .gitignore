@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+.venv/
+.vscode/
+work.sqlite
+*.duckdb

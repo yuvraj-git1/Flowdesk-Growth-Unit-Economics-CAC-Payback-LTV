@@ -1,0 +1,13 @@
+channel,campaign,p_signups,tagged_db_signups,signup_ratio_vs_tagged,p_paid,tagged_db_paid,paid_ratio_vs_tagged
+affiliate,aff_creators,566.0,388,1.46,44.0,29,1.52
+affiliate,aff_network_b,544.0,387,1.41,40.0,27,1.48
+affiliate,aff_network_a,520.0,369,1.41,40.0,34,1.18
+paid_search,search_brand,2761.0,1577,1.75,252.0,168,1.5
+paid_search,search_competitor,2739.0,1601,1.71,249.0,170,1.46
+paid_search,search_generic,2713.0,1564,1.73,208.0,151,1.38
+paid_social,social_prospecting,2639.0,1167,2.26,203.0,88,2.31
+paid_social,social_retargeting,2512.0,1125,2.23,204.0,91,2.24
+paid_social,social_lookalike,2668.0,1243,2.15,188.0,85,2.21
+review_site,reviews_capterra,1033.0,764,1.35,22.0,16,1.38
+review_site,reviews_g2,1079.0,797,1.35,19.0,14,1.36
+review_site,reviews_getapp,1068.0,752,1.42,13.0,10,1.3

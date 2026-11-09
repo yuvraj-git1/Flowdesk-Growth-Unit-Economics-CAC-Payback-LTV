@@ -1,0 +1,9 @@
+fk,orphans
+subscriptions->accounts,0
+invoices->subscriptions,0
+payments->invoices,0
+refunds->payments,0
+accounts.lead_id->leads,0
+leads.account_id->accounts,0
+leads<->accounts lead_id mismatch,0
+touches->leads,0

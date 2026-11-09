@@ -1,0 +1,13 @@
+segment,net_p3,net_p1disc,dim,uplift_pct
+affiliate,335109.7,367538.2,channel,9.7
+content_email,1020287.3,1122810.8,channel,10.0
+direct,1562052.2,1710836.7,channel,9.5
+organic_search,2348946.3,2600190.2,channel,10.7
+paid_search,1585038.5,1777491.0,channel,12.1
+paid_social,817047.9,950108.6,channel,16.3
+partner,957005.4,1091010.4,channel,14.0
+referral,1225237.0,1371294.3,channel,11.9
+review_site,152026.3,190639.5,channel,25.4
+sales_assisted,3106510.7,3524274.0,motion,13.4
+self_serve,6896239.9,7657645.7,motion,11.0
+all,10002750.6,11181919.7,total,11.8

@@ -1,0 +1,5 @@
+channel,rows_,usd_null,no_fx,naive_sum_local,booked_usd_sum,spend_usd_ref,ref_minus_booked_where_both
+paid_search,3288,227.0,0.0,409997.0,392851.0,422171.0,227.0
+paid_social,3288,207.0,0.0,220294.0,212897.0,226710.0,151.0
+affiliate,3288,229.0,0.0,64322.0,61381.0,66160.0,30.0
+review_site,3288,238.0,0.0,59411.0,56804.0,61085.0,16.0

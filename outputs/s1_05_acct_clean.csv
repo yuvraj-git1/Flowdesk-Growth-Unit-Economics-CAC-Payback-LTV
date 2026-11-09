@@ -1,0 +1,10 @@
+channel,raw_accounts,test,dups,clean_signups,clean_signups_matured
+organic_search,8762,14.0,177.0,8571.0,7691.0
+paid_search,6413,7.0,135.0,6271.0,5628.0
+direct,5552,2.0,94.0,5456.0,4887.0
+paid_social,4789,5.0,101.0,4683.0,4173.0
+content_email,4023,0.0,80.0,3943.0,3529.0
+referral,3286,5.0,54.0,3227.0,2901.0
+review_site,3164,4.0,71.0,3089.0,2757.0
+partner,2419,2.0,51.0,2366.0,2111.0
+affiliate,1566,1.0,33.0,1532.0,1377.0

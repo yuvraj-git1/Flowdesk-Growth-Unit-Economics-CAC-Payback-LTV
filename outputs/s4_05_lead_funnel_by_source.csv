@@ -1,0 +1,11 @@
+lead_channel,leads,reached_sql_or_beyond,won,win_pct_of_leads,avg_deal_arr,touches_per_win
+outbound,2356,1281.0,226.0,9.6,5001.0,44.6
+paid_search,516,280.0,76.0,14.7,5178.0,30.7
+organic_search,485,271.0,73.0,15.1,4290.0,29.5
+direct,518,266.0,55.0,10.6,3650.0,40.3
+partner,437,211.0,33.0,7.6,4779.0,56.7
+content_email,466,231.0,30.0,6.4,3724.0,63.0
+referral,428,217.0,30.0,7.0,4116.0,60.9
+paid_social,415,213.0,30.0,7.2,4151.0,59.0
+review_site,462,232.0,25.0,5.4,5181.0,75.0
+affiliate,437,206.0,13.0,3.0,5162.0,136.8
